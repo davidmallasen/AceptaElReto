@@ -1,6 +1,9 @@
 /**
  * Problema 0250: El desgaste de los bombines
+ *
+ * Ada Byron 2015. Equipo Infinite loop:
  * David Mallasén Quintana
+ * Ivan Prada Cazalla
  */
 
 #include <cstdio>

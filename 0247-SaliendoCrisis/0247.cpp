@@ -1,6 +1,9 @@
 /**
  * Problema 0247: Saliendo de la crisis
+ *
+ * Ada Byron 2015. Equipo Infinite loop:
  * David Mallasén Quintana
+ * Ivan Prada Cazalla
  */
 
 #include <cstdio>

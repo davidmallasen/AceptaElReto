@@ -1,6 +1,10 @@
 /**
  * Problema 0284: La tienda de la esquina
+ *
+ * Fase prueba Ada Byron 2016. Equipo Compiler Error:
  * David Mallasén Quintana
+ * Ivan Prada Cazalla
+ * Alvaro Rodriguez Garcia
  */
 
 #include <cstdio>
